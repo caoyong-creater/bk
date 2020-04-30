@@ -12,7 +12,7 @@
   "dependencies": {
     "vue": "^2.3.3",
     "vue-router": "^2.3.1",
-    "jquery": "1.12.4",
+    "jquery": "3.5.0",
     "vuex": "latest"
   },
   "devDependencies": {
